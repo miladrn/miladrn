@@ -23,7 +23,7 @@
 <div align="center">
     <h3><img alig src="img/handshake.gif"style="max-width: 100%;height: 20px;" /> Connect with Me <img alig src="img/handshake.gif"style="max-width: 100%;height: 20px;" /></h3>
     <p>
-      <a href="https://github.com/miladrn/miladrn/edit/main/README.md"><img title="instagram" alt="instagram" src="img/instagram.gif"style="height: 50px;width: 50px;"/></a>
+      <a href="https://www.instagram.com/developer_milad/"><img title="instagram" alt="instagram" src="img/instagram.gif"style="height: 50px;width: 50px;"/></a>
       <a href="www.linkedin.com/in/milad-rezanezhad"><img title="linkedin" alt="linkedin" src="img/linkedi.gif"style="height: 50px;width: 50px;"/></a>
       <a href="https://t.me/developer_milad"><img title="telegram" alt="telegram" src="img/telegram.gif"style="height: 50px;width: 50px;"/></a>
       <a href="https://twitter.com/Milad_RN_"><img title="twitter" alt="twitter" src="img/twitter.gif"style="height: 50px;width: 50px;"/></a>
