@@ -24,10 +24,17 @@
 <div align="center">
     <h3 >Connect with Me</h3>
     <p>
+<<<<<<< HEAD
         <a href="https://github.com/miladrn/miladrn/edit/main/README.md"><img title="instagram" alt="instagram" src="img/instagram.gif"/></a>
         <a href="www.linkedin.com/in/milad-rezanezhad"><img title="linkedin" alt="linkedin" src="img/linkedin.gif"/></a>
         <a href="https://t.me/developer_milad"><img title="telegram" alt="telegram" src="img/telegram.gif"/></a>
         <a href="https://twitter.com/Milad_RN_"><img title="twitter" alt="twitter" src="img/twitter.gif"/></a>
+=======
+        <a href="https://github.com/miladrn/miladrn/edit/main/README.md"><img title="instagram" alt="instagram" src="img/instagram.svg"/></a>
+        <a href="www.linkedin.com/in/milad-rezanezhad"><img title="linkedin" alt="linkedin" src="img/linkedin.svg"/></a>
+        <a href="https://t.me/developer_milad"><img title="telegram" alt="telegram" src="img/telegram.svg"/></a>
+        <a href="https://twitter.com/Milad_RN_"><img title="twitter" alt="twitter" src="img/twitter.svg"/></a>
+>>>>>>> 91f65470d3186dc2fc5428d0a15cc882ad57202b
         </p>
 </div>
 <hr>
@@ -35,3 +42,12 @@
 <p align="center">
    <img alig src="https://github-profile-trophy.vercel.app/?username=miladrn&column=3&margin-w=15&margin-h=15" />
 </p>
+<<<<<<< HEAD
+=======
+
+
+
+
+
+  
+>>>>>>> 91f65470d3186dc2fc5428d0a15cc882ad57202b
