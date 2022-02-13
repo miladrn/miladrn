@@ -2,8 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/miladrn?label=Follow&style=social)](https://github.com/miladrn)
 
-- 🔭 I’m currently working on Mediatek as Software Enginner
-- Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladrn&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miladrn&theme=github)
