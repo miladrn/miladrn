@@ -43,10 +43,12 @@
 <div align="center">
     <h3><img alig src="img/code.gif"style="max-width: 100%;height: 20px;" /> MY Skills <img alig src="img/code.gif"style="max-width: 100%;height: 20px;" /></h3>
     <p>
-      <a href="https://github.com/miladrn/miladrn/edit/main/README.md"><img title="instagram" alt="instagram" src="img/bootstrap.svg"style="height: 50px;width: 50px;"/></a>
-      <a href="www.linkedin.com/in/milad-rezanezhad"><img title="linkedin" alt="linkedin" src="img/css.svg"style="height: 50px;width: 50px;"/></a>
-      <a href="https://t.me/developer_milad"><img title="telegram" alt="telegram" src="img/html.svg"style="height: 50px;width: 50px;"/></a>
-      <a href="https://twitter.com/Milad_RN_"><img title="twitter" alt="twitter" src="img/wordpress.svg"style="height: 50px;width: 50px;"/></a>
+      <a href="https://getbootstrap.com/"><img title="bootstrap" alt="bootstrap" src="img/bootstrap.svg"style="height: 50px;width: 50px;"/></a>
+      <a href="https://www.w3schools.com/css/"><img title="css" alt="css" src="img/css.svg"style="height: 50px;width: 50px;"/></a>
+      <a href="https://www.w3schools.com"><img title="html" alt="html" src="img/html.svg"style="height: 50px;width: 50px;"/></a>
+      <a href="https://wordpress.com/"><img title="wordpress" alt="wordpress" src="img/wordpress.svg"style="height: 50px;width: 50px;"/></a>
+     <a href="https://www.php.net/"><img title="php" alt="php" src="img/php.png"style="height: 50px;width: 50px;"/></a>
+     <a href="https://www.javascript.com/"><img title="javascript" alt="javascript" src="img/javascript.svg"style="height: 50px;width: 50px;"/></a>
     </p>
 </div>
 
