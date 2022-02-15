@@ -24,10 +24,10 @@
 <div align="center">
     <h3> Connect with Me </h3>
     <p>
-      <a href="https://www.instagram.com/developer_milad/"><img title="instagram" alt="instagram" src="img/instagram.gif"style="height: 50px;width: 50px;"/></a>
-      <a href="www.linkedin.com/in/milad-rezanezhad"><img title="linkedin" alt="linkedin" src="img/linkedi.gif"style="height: 50px;width: 50px;"/></a>
-      <a href="https://t.me/developer_milad"><img title="telegram" alt="telegram" src="img/telegram.gif"style="height: 50px;width: 50px;"/></a>
-      <a href="https://twitter.com/Milad_RN_"><img title="twitter" alt="twitter" src="img/twitter.gif"style="height: 50px;width: 50px;"/></a>
+      <a href="https://www.instagram.com/developer_milad/"><img src="https://img.shields.io/badge/instagram-282C34?logo=instagram&logoColor=F7DF1E" alt="instagram logo" title="instagram" height="25" /></a>
+      <a href="www.linkedin.com/in/milad-rezanezhad"><img src="https://img.shields.io/badge/linkedin-0d66c2?logo=linkedin&logoColor=ffffff" alt="linkedin logo" title="linkedin" height="25" /></a>
+      <a href="https://t.me/developer_milad"><img src="https://img.shields.io/badge/telegram-282C34?logo=telegram&logoColor=F7DF1E" alt="telegram logo" title="telegram" height="25" /></a>
+      <a href="https://twitter.com/Milad_RN_"><img src="https://img.shields.io/badge/twitter-1d9bf0?logo=twitter&logoColor=ffffff" alt="twitter logo" title="twitter" height="25" /></a>
     </p>
 </div>
 <hr>
@@ -43,9 +43,12 @@
 
 <div align="center">
     <h3> MY Skills </h3>
-
+  
+&nbsp;
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+ <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=4F5B93" alt="php logo" title="php" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
